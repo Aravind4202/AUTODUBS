@@ -1,4 +1,4 @@
-# ML-Powered Translation Dubber
+# AUTODUBS:Translating and Dubbing vidoes
 
 In this directory, you'll find code that takes a movie and:
 - Transcribes it and adds captions
